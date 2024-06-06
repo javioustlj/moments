@@ -1,0 +1,6 @@
+[submodule "hugo-theme-moments"]
+	path = hugo-theme-moments
+	url = https://github.com/javioustlj/hugo-theme-moments
+[submodule "themes/moments"]
+	path = themes/moments
+	url = https://github.com/javioustlj/hugo-theme-moments.git

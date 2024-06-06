@@ -1,0 +1,21 @@
+# 你所部署发布的网站地址。如果你的主页url是在域名子路径下（如 http://site.com/subpath/），请务必设定此项。
+baseURL = 'https://javioustlj.github.io/moments/'
+languageCode = 'zh-Hans'
+theme = 'moments'
+# 单一页面上，显示的Moment的数量
+paginate = 5
+paginatePath = '.'
+
+[params]
+    title = '夏田墨'
+    # 页面顶端的标题
+    signature = '人生天地间，忽如远行客'
+    # 页面顶端封面
+    # cover = 'https://cdn.pixabay.com/photo/2018/03/13/22/53/puzzle-3223941_1280.jpg'
+    # cover = 'img/background.jpg'
+    cover = 'https://cdn.pixabay.com/photo/2019/06/09/10/58/sunrise-4261863_960_720.jpg'
+    # Moments 默认发布人
+    name = '夏田墨'
+    # Moments 默认发布人的头像
+    avatar = 'avatar/湖3.jpg'
+
