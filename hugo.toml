@@ -1,5 +1,5 @@
 # 你所部署发布的网站地址。如果你的主页url是在域名子路径下（如 http://site.com/subpath/），请务必设定此项。
-baseURL = 'https://javioustlj.github.io/moments/'
+baseURL = 'https://tianmo.tech/moments/'
 languageCode = 'zh-Hans'
 theme = 'moments'
 # 单一页面上，显示的Moment的数量
